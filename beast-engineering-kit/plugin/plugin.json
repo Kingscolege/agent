@@ -1,0 +1,20 @@
+{
+  "name": "engineering-agent-kit",
+  "displayName": "Engineering Agent Kit",
+  "version": "1.0.0",
+  "description": "Production-grade software engineering suite for Antigravity (AGY). Enforces systematic debugging, test-driven development, deterministic verification gates, multi-angle code review orchestration, deslop anti-slop passes, and architecture-driven execution.",
+  "author": {
+    "name": "Antigravity Engineering Architecture"
+  },
+  "keywords": [
+    "software-engineering",
+    "systematic-debugging",
+    "tdd",
+    "verification-gates",
+    "code-review",
+    "deslop",
+    "architecture",
+    "subagents",
+    "quality-gates"
+  ]
+}
